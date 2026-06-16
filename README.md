@@ -18,7 +18,7 @@
 
 * HTML5
 * CSS3 (Flexbox, Responsive Design)
-* JavaScript (Beginner)
+* JavaScript
 
 ---
 
