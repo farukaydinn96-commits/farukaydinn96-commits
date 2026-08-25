@@ -20,6 +20,7 @@
 * CSS3 (Flexbox, Responsive Design)
 * JavaScript
 * React
+* node.js
 ---
 
 ## Current Focus
