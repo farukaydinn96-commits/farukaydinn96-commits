@@ -134,8 +134,9 @@ I'm especially interested in **remote opportunities and international teams**.
 
 ## 📫 Connect With Me
 
-**GitHub:** Faruk Aydın
-**LinkedIn:** Faruk Aydın
+**GitHub:** https://github.com/farukaydinn96-commits
+**LinkedIn:** https://www.linkedin.com/in/faruk-ayd%C4%B1n-b82508170/
+
 
 ---
 
