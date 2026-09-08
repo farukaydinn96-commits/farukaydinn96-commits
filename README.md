@@ -21,6 +21,7 @@
 * JavaScript
 * React
 * node.js
+* Typescript
 ---
 
 ## Current Focus
