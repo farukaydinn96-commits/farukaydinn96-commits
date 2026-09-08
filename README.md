@@ -1,75 +1,144 @@
-# Hi, I'm Faruk Aydın
+# Hi, I'm Faruk Aydın 👋
 
- Frontend Developer in progress
- Focused on building clean, responsive, and user-friendly interfaces
- Based in Turkey
+### Junior Full Stack Developer | JavaScript • TypeScript • React • Node.js
 
----
+I'm a junior developer focused on building practical web applications and continuously improving my full-stack development skills.
 
-## About Me
+I enjoy turning ideas into working products, solving problems, learning new technologies, and understanding how applications work from frontend to backend.
 
-* I am currently learning **Frontend Development**
-* I practice coding every day and build real projects
-* My goal is to become a **Full Stack Developer**
+🌍 Based in Türkiye | Open to Remote Opportunities
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-* HTML5
-* CSS3 (Flexbox, Responsive Design)
-* JavaScript
-* React
-* node.js
-* Typescript
----
-
-## Current Focus
-
-* Improving my **CSS skills (Flexbox & Grid)**
-* Building **responsive websites**
-* Learning **JavaScript fundamentals**
+* 🚀 Developing my skills in **Full Stack Web Development**
+* ⚛️ Building applications with **JavaScript, TypeScript, React, and Node.js**
+* 🔌 Working with **REST APIs, API integrations, and asynchronous programming**
+* 🗄️ Expanding my knowledge of **databases, authentication, and backend architecture**
+* 🔧 Using **Git & GitHub** for version control and project development
+* 🤖 Using AI tools such as **ChatGPT, Claude, Cursor, and GitHub Copilot** as development assistants
+* 🌱 Always learning, building, and improving through hands-on projects
 
 ---
 
-##  Projects
+## 🛠️ Tech Stack
 
-###  Landing Page Project
+### Frontend
 
-* Responsive company website
-* Built with HTML & CSS
- 
----
+HTML5 · CSS3 · JavaScript · TypeScript · React · Responsive Design
 
-###  Personal Portfolio
+### Backend
 
-* Simple personal website
-* Clean UI design
+Node.js · Express.js · REST APIs · HTTP · JSON
 
+### Tools & Technologies
 
----
+Git · GitHub · Axios · VS Code · API Integration
 
-### Blog UI Design
+### Currently Learning
 
-* Blog layout design
-* Focus on typography and spacing
-
+TypeScript · Node.js · Express.js · Databases · Authentication · Backend Architecture
 
 ---
 
-## Goals
+## 🚀 Featured Projects
 
-* Build strong frontend fundamentals
-* Create real-world projects
-* Get my first developer job
+### 🌦️ Weather App
+
+A weather application that integrates with a third-party API to retrieve and display real-time weather information.
+
+**What I practiced:**
+
+* API integration
+* Asynchronous JavaScript
+* Working with JSON data
+* Error handling
+* DOM manipulation
+* Debugging API responses
 
 ---
 
-##  Contact
+### 📝 To-Do List
 
-*  GitHub: https://github.com/farukaydinn96-commits
-* LinkedIn: https://www.linkedin.com/in/faruk-ayd%C4%B1n-b82508170/
+A practical task management application built to strengthen my JavaScript fundamentals and frontend development skills.
+
+**What I practiced:**
+
+* DOM manipulation
+* Event handling
+* Application state
+* User interactions
+* Clean and maintainable JavaScript
 
 ---
 
-⭐️ I’m improving every day. This is just the beginning.
+### 🧠 Quiz App
+
+An interactive multiple-choice quiz application where users can answer questions and navigate through the quiz.
+
+**What I practiced:**
+
+* JavaScript logic
+* DOM manipulation
+* Event handling
+* Dynamic UI updates
+* User interaction
+
+🔗 Live Demo: Quiz App
+
+---
+
+## 📚 Currently Working On
+
+I'm currently focusing on becoming a stronger full-stack developer by improving my knowledge of:
+
+* Node.js & Express.js
+* TypeScript
+* RESTful API development
+* Databases & SQL
+* Authentication & authorization
+* Backend architecture
+* Testing & debugging
+* Deployment and production practices
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI tools as part of my development workflow to:
+
+* Explore unfamiliar concepts
+* Debug and analyze problems
+* Research different implementation approaches
+* Improve productivity
+* Review and improve code
+
+I treat AI as a development assistant rather than a replacement for understanding the code. I review, test, and validate the solutions I use.
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for a **Junior Software Engineer, Junior Full Stack Developer, or Junior Frontend Developer** opportunity where I can:
+
+* Work on real-world products
+* Learn from experienced developers
+* Contribute to a professional engineering team
+* Take ownership of meaningful tasks
+* Continue developing my frontend and backend skills
+
+I'm especially interested in **remote opportunities and international teams**.
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** Faruk Aydın
+**LinkedIn:** Faruk Aydın
+
+---
+
+⭐️ Thanks for visiting my profile!
+
+I'm always learning, building, and looking for the next problem to solve.
